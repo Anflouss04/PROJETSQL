@@ -83,6 +83,7 @@ Description technique
 Conclusion
 
 Ce projet a permis de mettre en pratique les concepts fondamentaux des bases de données relationnelles, depuis la modélisation jusqu’à l’exploitation via une interface utilisateur. La séparation des deux parties a permis un travail en binôme efficace, Mohamed assurant la base SQL robuste, et Yassine développant l’interface web interactive.
+
 Annexes
 
     Scripts SQL (création, insertion, requêtes)
